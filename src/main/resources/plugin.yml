@@ -1,0 +1,11 @@
+name: SAOCore
+version: '${project.version}'
+main: br.com.extraplays.saocore.SAOCore
+api-version: 1.16
+authors: [ ExtraPlays ]
+description: Plugin principal do servidor.
+website: github.com/extraplays
+commands:
+  profile:
+    aliases:
+      - "perfil"
